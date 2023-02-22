@@ -1,0 +1,9 @@
+.par{
+    margin:5%;
+    padding:20px;
+    border:solid brown 2px;
+
+}
+.outer{
+    border: dotted darkorchid;
+}

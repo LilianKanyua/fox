@@ -1,0 +1,69 @@
+.body{
+    border:solid cornflowerblue 2px;
+    padding:40px;
+    margin:5px;
+    background-color:cornflowerblue;
+}
+.main{
+   background-image: url(/images/del.jpeg);
+    border:solid antiquewhite 2px;
+    padding: 40px;
+    margin:5px;
+    border-radius: 25px;
+    background-image:linear-gradient(rgba(202, 13, 38, 0.5)50%,rgba(202, 13, 38, 0.5)50%url(/images/foodback.jpg));
+    height:100vh;
+    width:94%;
+    background-size: cover;
+    background-position: center;
+   position: relative;
+}
+.nav{
+    width: 1200px;
+    height:75px;
+ }
+ .icon{
+    width: 200px;
+    height:70px;
+    float:left;
+ }
+ .logo{
+    color: crimson;
+ }
+ .navbar{
+    width: 900px;
+    height:70px;
+    float: left;
+ }
+ ul{
+    float:left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ li{
+    list-style-type: none;
+    margin-left: 5%;
+    font-size: 13px;
+   
+ 
+ }
+ li a{
+    text-decoration: none;
+    color: #000;
+    margin: top 0; 
+ }
+ #butn{
+    background-color: cadetblue;
+    padding:10px;
+    margin-left:50%;
+ }
+  #btn{
+     background-color: cadetblue;
+  }
+  .head{
+     text-align: center;
+  }
+  .gallery{
+   max-width: 10px;
+   max-height: 10px
+  }
